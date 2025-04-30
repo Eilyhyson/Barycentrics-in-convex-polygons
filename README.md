@@ -1,6 +1,4 @@
-Here’s a README draft for your GitHub project:
 
----
 
 # Barycentric Coordinates: A Comprehensive Implementation
 
