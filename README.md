@@ -9,7 +9,7 @@ Additionally, the project calculates triangle subdivision faces and outputs them
 ## Features
 
 - **Coordinate Algorithms**:
-  - Centroid Coordinates
+  - Mean value coordinates
   - Maximum Entropy Coordinates
   - Harmonic Coordinates
   - Local Coordinates
